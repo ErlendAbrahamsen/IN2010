@@ -1,5 +1,6 @@
 # IN2010
 Algoritmer og datastrukturer (Algorithms and datastructures at UIO)
+- Final written digital exam plus 3 mandotary assignments/small projects.
 
 # Kort om emnet
 - Emnet gir en gjennomgang av datastrukturer som stakker, trær, grafer, hashtabeller og prioritetskøer, samt algoritmer for sortering, søking, innsetting og så videre knyttet til disse. Ulike implementasjoner vurderes med vekt på effektivitet, programstruktur og abstrakte datatyper. Viktige elementer i emnet er rekursiv programmering samt vurdering og beskrivelse av programmers effektivitet.
